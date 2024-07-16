@@ -1,0 +1,70 @@
+.UserList {
+    max-width: 1000px;
+    width: 100%;
+    border:  1px solid gray;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 20px;
+    margin: 0 auto; 
+}
+
+.ListItem {
+    display : flex;
+    align-items: center;
+    gap : 20px;
+    
+    border-bottom: 1px solid gray;
+    padding: 10px 10px 10px 10px;
+    font-size: 12px;
+}
+
+.ListItem .code {
+    width: 100px;
+}
+.ListItem .name {
+    width: 200px
+}
+.ListItem .id{
+    width: 200px
+}
+.ListItem .pw{
+    width: 200px
+}
+.ListItem .age {
+    width: 100px;
+}
+.ListItem .gender{
+    width: 100px;
+}
+
+
+
+.ListContent {
+    display : flex;
+    align-items: center;
+    gap : 20px;
+    
+    border-bottom: 1px solid gray;
+    padding: 10px 10px 10px 10px;
+    font-weight: 100;
+}
+.ListContent .code {
+    width: 100px;
+}
+.ListContent .name {
+    width: 200px
+}
+.ListContent .id{
+    width: 200px
+}
+.ListContent .pw{
+    width: 200px
+}
+.ListContent .age {
+    width: 100px;
+}
+.ListContent .gender{
+    width: 100px;
+}

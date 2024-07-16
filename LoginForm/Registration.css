@@ -1,0 +1,17 @@
+.Registration{
+
+}
+
+.Registration .inputInfo{
+    text-align: right;
+    font-weight: 100;
+}
+
+.Registration .btn_submit{
+    text-align: center;
+}
+
+.Registration .btn_submit button{
+    text-align: center;
+    font-weight: 100;
+}
