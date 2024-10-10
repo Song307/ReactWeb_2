@@ -43,6 +43,7 @@ public class Car {
 
 	public void setSpeed(int speed) {
 		this.speed = speed;
+		this.speed2 = speed
 	}
 	
 
