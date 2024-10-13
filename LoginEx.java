@@ -41,7 +41,7 @@ public class LoginEx extends JFrame {
 		});
 		JButton cancelbt = new JButton("Cancel");
 		cp.add(cancelbt);
-		//취소 이벤트 처리
+		//취소 이벤트 처리ㅇㅁㄴ
 		cancelbt.addActionListener(new ActionListener() {
 			
 			@Override
