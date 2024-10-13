@@ -28,7 +28,7 @@ public class LoginEx extends JFrame {
 		JButton logbt = new JButton("Login");
 		
 		cp.add(logbt);
-		//로그인 이벤트 처리
+		//로그인 이벤트 처리ㅇㅁㄴ
 		logbt.addActionListener(new ActionListener() {
 			
 			@Override
