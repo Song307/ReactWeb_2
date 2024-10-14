@@ -15,7 +15,7 @@ public class Car {
 	
 	//3. ��� �޼ҵ�()
 	void upspeed(int value) {
-		if (speed + value >= 200)
+		if (speed + value >= 2200)
 			speed = 200;
 		else
 			speed = speed + value;
